@@ -1,0 +1,267 @@
+Package,LibPath,Version,Priority,Built
+abind,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4-5,NA,4.2.0
+askpass,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1,NA,4.2.1
+assertthat,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2.1,NA,4.2.1
+backports,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.1,NA,4.2.0
+bannerCommenter,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.1
+base64enc,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1-3,NA,4.2.0
+bit,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.0.4,NA,4.2.1
+bit64,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.0.5,NA,4.2.1
+blob,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.3,NA,4.2.1
+brew,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0-7,NA,4.2.1
+brio,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.3,NA,4.2.1
+broom,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.1
+bslib,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.1,NA,4.2.1
+C50,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.6,NA,4.2.1
+cachem,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.6,NA,4.2.1
+callr,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.7.0,NA,4.2.1
+carData,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.0-5,NA,4.2.1
+cellranger,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.0,NA,4.2.1
+classInt,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4-7,NA,4.2.1
+cli,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.3.0,NA,4.2.1
+clipr,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.8.0,NA,4.2.1
+colorspace,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0-3,NA,4.2.1
+commonmark,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.8.0,NA,4.2.1
+cpp11,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4.2,NA,4.2.1
+crayon,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5.1,NA,4.2.1
+credentials,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.3.2,NA,4.2.1
+crosstalk,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.0,NA,4.2.1
+cubature,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.4.4,NA,4.2.1
+Cubist,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4.0,NA,4.2.1
+curl,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.3.2,NA,4.2.1
+data.table,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.14.2,NA,4.2.1
+DBI,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.3,NA,4.2.1
+dbplyr,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.2.1,NA,4.2.1
+demoKde,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.1
+DEoptimR,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0-11,NA,4.2.0
+desc,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.1,NA,4.2.1
+devtools,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.4.3,NA,4.2.1
+dichromat,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0-0.1,NA,4.2.0
+diffobj,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.5,NA,4.2.1
+digest,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.6.29,NA,4.2.1
+doParallel,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.17,NA,4.2.1
+doRNG,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.8.2,NA,4.2.1
+dplyr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.9,NA,4.2.1
+dtplyr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.1,NA,4.2.1
+e1071,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.7-11,NA,4.2.1
+effects,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.2-1,NA,4.2.1
+ellipsis,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.2,NA,4.2.1
+english,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2-6,NA,4.2.1
+estimability,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4,NA,4.2.1
+evaluate,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.15,NA,4.2.1
+fansi,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.3,NA,4.2.1
+farver,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.1,NA,4.2.1
+fastGHQuad,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+fastmap,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.0,NA,4.2.1
+forcats,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.5.1,NA,4.2.1
+foreach,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5.2,NA,4.2.1
+Formula,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2-4,NA,4.2.0
+fractional,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.3,NA,4.2.1
+frenchCurve,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2.0,NA,4.2.1
+fs,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5.2,NA,4.2.1
+gargle,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.0,NA,4.2.1
+gbm,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.8,NA,4.2.1
+generics,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.3,NA,4.2.1
+geojsonsf,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.3,NA,4.2.1
+geometries,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2.0,NA,4.2.1
+gert,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.6.0,NA,4.2.1
+GGally,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.2,NA,4.2.1
+ggplot2,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.3.6,NA,4.2.1
+ggrepel,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.9.1,NA,4.2.1
+ggthemes,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.2.4,NA,4.2.1
+gh,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.3.0,NA,4.2.1
+gifski,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.6.6-1,NA,4.2.1
+gitcreds,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.1,NA,4.2.1
+glm2,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.1,NA,4.2.0
+glmnet,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.1-4,NA,4.2.1
+glmnetUtils,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.8,NA,4.2.1
+glue,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.6.2,NA,4.2.1
+googledrive,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.0,NA,4.2.1
+googlesheets4,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.1
+gridExtra,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.3,NA,4.2.1
+gtable,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.0,NA,4.2.1
+haven,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.5.0,NA,4.2.1
+here,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+highr,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.9,NA,4.2.1
+hms,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.1,NA,4.2.1
+htmltools,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.5.2,NA,4.2.1
+htmlwidgets,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5.4,NA,4.2.1
+httr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.3,NA,4.2.1
+ids,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+ini,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.1,NA,4.2.1
+insight,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.18.0,NA,4.2.1
+inum,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0-4,NA,4.2.1
+isoband,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2.5,NA,4.2.1
+iterators,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.14,NA,4.2.1
+JacobiEigen,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3-4,NA,4.2.1
+jquerylib,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.4,NA,4.2.1
+jsonify,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.1,NA,4.2.1
+jsonlite,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.8.0,NA,4.2.1
+knitr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.39,NA,4.2.1
+labeling,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4.2,NA,4.2.0
+lazyData,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.0,NA,4.2.1
+lazyeval,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2.2,NA,4.2.1
+leafem,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2.0,NA,4.2.1
+leaflet,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.1,NA,4.2.1
+leaflet.providers,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.9.0,NA,4.2.1
+leafsync,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.0,NA,4.2.1
+libcoin,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0-9,NA,4.2.1
+lifecycle,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+lme4,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1-30,NA,4.2.1
+lubridate,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.8.0,NA,4.2.1
+lwgeom,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2-8,NA,4.2.1
+magrittr,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.3,NA,4.2.1
+markdown,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1,NA,4.2.1
+MASSExtra,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.2,NA,4.2.1
+mboost,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.9-7,NA,4.2.1
+memoise,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.1,NA,4.2.1
+microbenchmark,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.9,NA,4.2.1
+mime,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.12,NA,4.2.0
+minqa,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.4,NA,4.2.1
+mitools,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.4,NA,4.2.1
+modelr,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.8,NA,4.2.1
+munsell,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.5.0,NA,4.2.1
+mvtnorm,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1-3,NA,4.2.0
+nloptr,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.3,NA,4.2.1
+nnls,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4,NA,4.2.0
+numDeriv,C:/Users/jk845/AppData/Local/R/win-library/4.2,2016.8-1.1,NA,4.2.0
+openssl,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.2,NA,4.2.1
+palmerpenguins,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.0,NA,4.2.1
+partykit,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2-16,NA,4.2.1
+patchwork,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.1,NA,4.2.1
+PBSmapping,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.73.0,NA,4.2.1
+pillar,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.7.0,NA,4.2.1
+pingr,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.1,NA,4.2.1
+pkgbuild,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.3.1,NA,4.2.1
+pkgconfig,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.3,NA,4.2.1
+pkgload,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.3.0,NA,4.2.1
+plyr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.8.7,NA,4.2.1
+png,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1-7,NA,4.2.0
+PolynomF,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0-5,NA,4.2.1
+praise,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.1
+prettyunits,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.1,NA,4.2.1
+processx,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.7.0,NA,4.2.1
+progress,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.2,NA,4.2.1
+proxy,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4-27,NA,4.2.1
+ps,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.7.1,NA,4.2.1
+purrr,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.4,NA,4.2.1
+quadprog,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5-8,NA,4.2.0
+R.cache,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.15.0,NA,4.2.1
+R.methodsS3,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.8.2,NA,4.2.0
+R.oo,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.25.0,NA,4.2.0
+R.utils,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.12.0,NA,4.2.1
+R6,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.5.1,NA,4.2.1
+randomForest,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.7-1.1,NA,4.2.1
+ranger,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.14.1,NA,4.2.1
+rapidjsonr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.0,NA,4.2.0
+rappdirs,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.3,NA,4.2.1
+raster,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.5-21,NA,4.2.1
+rbenchmark,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.0
+rcmdcheck,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.0,NA,4.2.1
+RColorBrewer,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1-3,NA,4.2.0
+Rcpp,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.9,NA,4.2.1
+RcppEigen,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.3.9.2,NA,4.2.1
+readr,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.2,NA,4.2.1
+readxl,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.0,NA,4.2.1
+rematch,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+rematch2,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.2,NA,4.2.1
+remotes,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.4.2,NA,4.2.1
+reprex,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.1,NA,4.2.1
+reshape,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.8.9,NA,4.2.1
+reshape2,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.4,NA,4.2.1
+rgdal,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5-32,NA,4.2.1
+rlang,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.3,NA,4.2.1
+rmarkdown,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.14,NA,4.2.1
+rngtools,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5.2,NA,4.2.1
+robustbase,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.95-0,NA,4.2.1
+robustlmm,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.5-1,NA,4.2.1
+roxygen2,C:/Users/jk845/AppData/Local/R/win-library/4.2,7.2.0,NA,4.2.1
+rprojroot,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.3,NA,4.2.1
+rstudioapi,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.13,NA,4.2.1
+rversions,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.1,NA,4.2.1
+rvest,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.2,NA,4.2.1
+s2,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.7,NA,4.2.1
+sass,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4.1,NA,4.2.1
+scales,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.0,NA,4.2.1
+searchpath,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.1,NA,4.2.1
+selectr,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4-2,NA,4.2.1
+sessioninfo,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.2,NA,4.2.1
+sf,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0-7,NA,4.2.0
+sfheaders,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4.0,NA,4.2.1
+shape,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.6,NA,4.2.0
+SOAR,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.99-11,NA,4.2.0
+sp,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5-0,NA,4.2.1
+stabs,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.6-4,NA,4.2.1
+stars,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.5-5,NA,4.2.1
+stringi,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.7.8,NA,4.2.1
+stringr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.0,NA,4.2.1
+styler,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.7.0,NA,4.2.1
+sudokuAlt,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2-1,NA,4.2.1
+survey,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.1-1,NA,4.2.1
+sys,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.4,NA,4.2.1
+terra,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5-34,NA,4.2.1
+testthat,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.1.4,NA,4.2.1
+tibble,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.1.7,NA,4.2.1
+tidyr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.0,NA,4.2.1
+tidyselect,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1.2,NA,4.2.1
+tidyverse,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.3.1,NA,4.2.1
+tinytex,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.40,NA,4.2.1
+tmap,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.3-3,NA,4.2.1
+tmaptools,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.1-1,NA,4.2.1
+tzdb,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.0,NA,4.2.1
+units,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.8-0,NA,4.2.1
+usethis,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.6,NA,4.2.1
+utf8,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.2,NA,4.2.1
+uuid,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.1-0,NA,4.2.0
+vctrs,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4.1,NA,4.2.1
+vip,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.2,NA,4.2.1
+viridis,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.6.2,NA,4.2.1
+viridisLite,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4.0,NA,4.2.1
+visreg,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.7.0,NA,4.2.1
+vroom,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.5.7,NA,4.2.1
+waldo,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4.0,NA,4.2.1
+whisker,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.4,NA,4.2.1
+widgetframe,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.1,NA,4.2.1
+withr,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.5.0,NA,4.2.1
+wk,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.6.0,NA,4.2.1
+WWRCourse,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.2.3,NA,4.2.1
+WWRData,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.0,NA,4.2.1
+WWRGraphics,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.2,NA,4.2.1
+WWRUtilities,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.2,NA,4.2.1
+xfun,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.31,NA,4.2.1
+XML,C:/Users/jk845/AppData/Local/R/win-library/4.2,3.99-0.10,NA,4.2.0
+xml2,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.3.3,NA,4.2.1
+xopen,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.1
+xtable,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.8-4,NA,4.2.1
+yaml,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.3.5,NA,4.2.0
+zip,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.2.0,NA,4.2.1
+base,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+boot,C:/Program Files/R/R-4.2.1/library,1.3-28,recommended,4.2.1
+class,C:/Program Files/R/R-4.2.1/library,7.3-20,recommended,4.2.1
+cluster,C:/Program Files/R/R-4.2.1/library,2.1.3,recommended,4.2.1
+codetools,C:/Program Files/R/R-4.2.1/library,0.2-18,recommended,4.2.1
+compiler,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+datasets,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+foreign,C:/Program Files/R/R-4.2.1/library,0.8-82,recommended,4.2.1
+graphics,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+grDevices,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+grid,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+KernSmooth,C:/Program Files/R/R-4.2.1/library,2.23-20,recommended,4.2.1
+lattice,C:/Program Files/R/R-4.2.1/library,0.20-45,recommended,4.2.1
+MASS,C:/Program Files/R/R-4.2.1/library,7.3-57,recommended,4.2.1
+Matrix,C:/Program Files/R/R-4.2.1/library,1.4-1,recommended,4.2.1
+methods,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+mgcv,C:/Program Files/R/R-4.2.1/library,1.8-40,recommended,4.2.1
+nlme,C:/Program Files/R/R-4.2.1/library,3.1-157,recommended,4.2.1
+nnet,C:/Program Files/R/R-4.2.1/library,7.3-17,recommended,4.2.1
+parallel,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+rpart,C:/Program Files/R/R-4.2.1/library,4.1.16,recommended,4.2.1
+spatial,C:/Program Files/R/R-4.2.1/library,7.3-15,recommended,4.2.1
+splines,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+stats,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+stats4,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+survival,C:/Program Files/R/R-4.2.1/library,3.3-1,recommended,4.2.1
+tcltk,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+tools,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+translations,C:/Program Files/R/R-4.2.1/library,4.2.1,NA,4.2.1
+utils,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
