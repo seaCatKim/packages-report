@@ -1,3 +1,8 @@
+#' ---
+#' author: "Catherine kim"
+#' date: "`r format(Sys.Date())`"
+#' output: github_document
+#' ---
 
 library(tidyverse)
 
