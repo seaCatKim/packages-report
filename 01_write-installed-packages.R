@@ -4,6 +4,8 @@
 #' output: github_document
 #' ---
 
+# an insightful comment
+
 library(tidyverse)
 
 pkgs <- installed.packages() %>%

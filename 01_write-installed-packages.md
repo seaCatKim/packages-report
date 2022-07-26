@@ -1,9 +1,11 @@
 01_write-installed-packages.R
 ================
 Catherine kim
-2022-07-26
+2022-07-27
 
 ``` r
+# an insightful comment
+
 library(tidyverse)
 ```
 
@@ -27,7 +29,7 @@ write_csv("installed-pkgs.csv")
 pkgs
 ```
 
-    ## # A tibble: 266 × 5
+    ## # A tibble: 268 × 5
     ##    Package         LibPath                                Version Priority Built
     ##    <chr>           <chr>                                  <chr>   <chr>    <chr>
     ##  1 abind           C:/Users/jk845/AppData/Local/R/win-li… 1.4-5   <NA>     4.2.0
@@ -40,4 +42,4 @@ pkgs
     ##  8 bit64           C:/Users/jk845/AppData/Local/R/win-li… 4.0.5   <NA>     4.2.1
     ##  9 blob            C:/Users/jk845/AppData/Local/R/win-li… 1.2.3   <NA>     4.2.1
     ## 10 brew            C:/Users/jk845/AppData/Local/R/win-li… 1.0-7   <NA>     4.2.1
-    ## # … with 256 more rows
+    ## # … with 258 more rows
