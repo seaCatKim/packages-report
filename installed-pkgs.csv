@@ -41,7 +41,7 @@ diffobj,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.3.5,NA,4.2.1
 digest,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.6.29,NA,4.2.1
 doParallel,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.17,NA,4.2.1
 doRNG,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.8.2,NA,4.2.1
-dplyr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.9,NA,4.2.1
+dplyr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.9,NA,4.2.0
 dtplyr,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.1,NA,4.2.1
 e1071,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.7-11,NA,4.2.1
 effects,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.2-1,NA,4.2.1
@@ -71,6 +71,7 @@ ggrepel,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.9.1,NA,4.2.1
 ggthemes,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.2.4,NA,4.2.1
 gh,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.3.0,NA,4.2.1
 gifski,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.6.6-1,NA,4.2.1
+gitcellar,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.0.0.9000,NA,4.2.1
 gitcreds,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.1.1,NA,4.2.1
 glm2,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.2.1,NA,4.2.0
 glmnet,C:/Users/jk845/AppData/Local/R/win-library/4.2,4.1-4,NA,4.2.1
@@ -166,6 +167,7 @@ readxl,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.0,NA,4.2.1
 rematch,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
 rematch2,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.1.2,NA,4.2.1
 remotes,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.4.2,NA,4.2.1
+renv,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.15.5,NA,4.2.1
 reprex,C:/Users/jk845/AppData/Local/R/win-library/4.2,2.0.1,NA,4.2.1
 reshape,C:/Users/jk845/AppData/Local/R/win-library/4.2,0.8.9,NA,4.2.1
 reshape2,C:/Users/jk845/AppData/Local/R/win-library/4.2,1.4.4,NA,4.2.1
